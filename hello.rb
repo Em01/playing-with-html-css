@@ -10,6 +10,10 @@ get '/hello' do
   erb :index
 end
 
+get '/berry' do
+  erb :berry
+end
+
 #   @name = %w(Amigo Oscar Viking).sample
 #   #@name selects a name for the kitten in the instance variable @name
 #   erb :index
