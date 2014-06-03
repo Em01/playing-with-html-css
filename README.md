@@ -6,12 +6,12 @@ At the beginning of week 5 at Makers Academy we were set a small project that en
 ###Technologies Used
 ----------
 
-Sublime Text
-Sinatra
-RSpec
+-Sublime Text
+-Sinatra
+-RSpec
 
 ###Languages Used
 ----------
-HTML
-CSS
-Ruby
+-HTML
+-CSS
+-Ruby
