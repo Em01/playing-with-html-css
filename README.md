@@ -8,3 +8,4 @@ At the beginning of week 5 at Makers Academy we were set a small project that en
 - HTML
 - CSS
 - Ruby
+- Git & GitHub
